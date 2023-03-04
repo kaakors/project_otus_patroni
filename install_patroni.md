@@ -37,7 +37,8 @@ index = https://
 ```
 
 #### 4) создаем	файл /etc/patroni/patroni.yml : ####
-	
+
+```
 name: host
 namespace: /db/
 scope: postgres
